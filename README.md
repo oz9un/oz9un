@@ -16,7 +16,7 @@ oh wait...**html and css?** <img width="50" src="https://media.tenor.com/images/
 
 # The repositories I'm currently working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=dos-tester-802.11&theme=tokyonight&border_radius=20)](https://github.com/oz9un/dos-tester-802.11)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=crypto_basics&theme=tokyonight&border_radius=20)](https://github.com/oz9un/crypto_basics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=dos-tester-802.11&theme=tokyonight&border_radius=20)](https://github.com/oz9un/dos-tester-802.11)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=detecta-ble&theme=tokyonight&border_radius=20)](https://github.com/oz9un/detecta-ble)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=go-dns-poisoner&theme=tokyonight&border_radius=20)](https://github.com/oz9un/go-dns-poisoner)       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=network-gonitor&theme=tokyonight&border_radius=20)](https://github.com/oz9un/network-gonitor)
 
