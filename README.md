@@ -26,7 +26,8 @@ oh wait...**html?** <img width="50" src="https://media.tenor.com/images/78eefe6a
 # Medium writings: https://ozgunkultekin.medium.com
 - Crypto Basics: Fixed XOR implementation [Python][Cryptopals]
 - Crypto Basics: understand&create your own base64 encoding with Python
+- SysmonForLinux - Logging File Create Events 
+
 
 # Dev.to writings: https://dev.to/oz9un
 - Liman ile LAPS Yönetimi
-- SysmonForLinux - Logging File Create Events 
