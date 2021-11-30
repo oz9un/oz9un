@@ -10,8 +10,6 @@
 # Some of my favorite programming languages : 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oz9un&theme=dracula&border_radius=50&border_color=ec688d)
 
-<img width="50" src="https://media.tenor.com/images/78eefe6a941a19c20730988a12c8e0d0/tenor.gif"/>
-
 
 
 # Repositories I'm currently working on 🧙:
