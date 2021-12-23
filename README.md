@@ -13,6 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oz9un&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+*PS: The reason why PHP seems to be most used language is because I had to import some libraries manually for one of my project. Ssshh 🤫*
+<p align="center"><img width=100 height=100 src="https://media4.giphy.com/media/hSuPuueMD1rK0eVcF0/giphy.gif?cid=ecf05e47niyj93nukdr5uwxcerofy2z9x5yig8gpprg88exz&rid=giphy.gif&ct=ts"/></p>
+
 ### **Repositories I'm currently working on 🧙:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=Developers-Playlist&theme=tokyonight&border_radius=20)](https://github.com/oz9un/Developers-Playlist) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oz9un&repo=Spotify-API-Apps&theme=tokyonight&border_radius=20)](https://github.com/oz9un/Spotify-API-Apps)  
