@@ -1,12 +1,17 @@
-# hey, it's ozgun
-<h4 align="center">
-  im doing stuff in cybersec
-</h4>
-latest research: SIEM-SLAM <br>
-latest talk: https://bsidesprg2024.sched.com/event/1aaUx/siem-slam-tricking-modern-siems-with-fake-logs-and-confusing-blue-teams
-</p>
+<div align="center">
+  <img src="https://github.com/oz9un/oz9un/blob/main/welcome_wordart" style="max-width: 100%;" alt="welcome wordart" />
+</div>
 
 
-## Writings:
-**Medium: https://ozgunkultekin.medium.com** <br>
-**Dev.to: https://dev.to/oz9un**
+<div align="center">
+  <img src="https://github.com/oz9un/oz9un/blob/main/about.png" style="max-width: 100%;" alt="welcome wordart" />
+</div>
+
+
+<div align="center">
+<img src="microsoft-computer.gif"/>
+  <br>
+<a href="https://www.ozgunkultekin.com">visit my website</a>
+</div>
+
+
