@@ -12,7 +12,8 @@
 <img src="microsoft-computer.gif"/>
   <br>
 <a href="https://www.ozgunkultekin.com">visit my plain website</a>
-<a href="https://hacker.ozgunkultekin.com">visit the website i am dealing with for a while</a>
+<br>
+<a href="https://hacker.ozgunkultekin.com">visit the new website i am dealing with for a while</a>
 </div>
 
 
