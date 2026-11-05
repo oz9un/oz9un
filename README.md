@@ -11,9 +11,7 @@
 <div align="center">
 <img src="microsoft-computer.gif"/>
   <br>
-<a href="https://www.ozgunkultekin.com">visit my old website</a>
+<a href="https://ozgun.sh">visit my website</a>
 <br>
-<a href="https://hacker.ozgunkultekin.com">visit my new website/a>
-</div>
 
 
